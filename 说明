@@ -1,0 +1,2 @@
+relay.py是守护进程用于snort和控制器之间的通信
+snort文件夹是floodlight中与snort通信的模块，实际上是floodlight控制器工程下的一个包
